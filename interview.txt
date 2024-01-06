@@ -1,0 +1,115 @@
+Data Science Interview
+	https://www.datacamp.com/blog/data-scientist-interview-questions
+	
+	Tell me about a time when you had to explain a complex data concept to someone without a technical background. How did you ensure they understood?
+	
+	Describe a project where you had to work with a difficult team member. How did you handle the situation?
+	
+	Can you share an example of a time when you had to work under a tight deadline? How did you manage your tasks and deliver on time?
+	
+	Have you ever made a significant mistake in your analysis? How did you handle it and what did you learn from it?
+	
+	How do you stay updated with the latest trends and advancements in data science?
+	
+	Can you tell us about a time when you had to work on a project with unclear or constantly changing requirements? How did you adapt?
+	
+	Describe a situation where you had to balance data-driven decision-making with other considerations (like ethical concerns, business needs, etc.).
+	
+	What are the assumptions required for a Linear Regression?
+	
+	How do you handle a dataset missing several values?
+	
+	How do you explain technical aspects of your results to stakeholders with a non-technical background?
+	
+	What are the feature selection methods used to select the right variables?
+	
+	How can you avoid overfitting your model?
+	
+	List the different types of relationships in SQL
+	
+	What are dimensionality reduction and its benefits?
+	
+	What is the goal of A/B Testing?
+	
+	Given a dictionary consisting of many roots and a sentence, stem all the words in the sentence with the root forming it.
+		input
+		roots = ["cat", "bat", "rat"]
+		sentence = "the cattle was rattled by the battery"
+		output
+		"the cat was rat by the bat"
+	
+	https://www.mastersindatascience.org/resources/how-to-nail-your-data-science-tech-interview/
+
+    How would you explain the difference between supervised and unsupervised machine learning?
+	
+    What are exploding gradients?
+    
+	What is a confusion matrix?
+    
+	How does an ROC curve work?
+    
+	What is a decision tree algorithm and can you explain it in detail?
+    
+	What is normal distribution?
+    
+	What is deep learning?
+    
+	What is selection bias?
+    
+	What is linear regression?
+    
+	What are type I and type II errors?
+    
+	How do you clean a dataset? What do you look for?
+
+    Give an example of a cross-validation technique you have used on a time series dataset.
+    
+	Give an example of a time you used logistic regression.
+    
+	What programming languages are you most comfortable with?
+    
+	Give an example of an original algorithm you created.
+    
+	How do you identify outliers in a large dataset?
+    
+	What is a specific example of a model you created for a project?
+
+    What is more important in machine learning models, the model’s accuracy or the model’s performance (and explain the difference)?
+    
+	Is it better to spend five days developing a 90% accurate solution or 10 days for 100% accuracy? (They’re looking for your time-management abilities.)
+    
+	Is it better to have too many false negatives or too many false positives?
+    
+	Tell us about a time you saw the need for change and you took the initiative.
+    
+	Tell us about a time you experienced an injustice in the workplace and how you handled it.
+    
+	How do you power through tedious projects?
+    
+	What do you think makes a good data scientist?
+    
+	What books, websites and data professionals do you follow to stay current?
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
